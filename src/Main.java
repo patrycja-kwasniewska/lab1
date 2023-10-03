@@ -21,5 +21,6 @@ public class Main {
 
     public void cos2() {
         System.out.println("cos wypisuje xd");
+        System.out.println("new");
     }
 }
