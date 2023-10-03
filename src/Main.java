@@ -18,4 +18,8 @@ public class Main {
     public void cos(){
         System.out.println("blabla");
     }
+
+    public void cos2() {
+        System.out.println("cos wypisuje 2");
+    }
 }
