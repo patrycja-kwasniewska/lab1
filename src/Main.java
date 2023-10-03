@@ -15,7 +15,7 @@ public class Main {
         }
     }
 
-    public void cos(){
+    public void cos() {
         System.out.println("blabla");
     }
 
